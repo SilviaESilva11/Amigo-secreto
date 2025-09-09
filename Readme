@@ -1,0 +1,21 @@
+# Jogo do Amigo Secreto
+
+O jogo foi feito em "JavaScript" para sortear amigos;
+
+# Como Funciona?
+
+Adiciona-se os nomes à lista de amigos "sem repetições";
+
+# Não é permitido nomes vazios  
+
+# Passo a passo:
+
+Atualize a página;
+
+Insira no mínimo 3 nomes de amigos;
+
+Observe que os nomes serão exibidos em lista, na tela;
+
+Clique no botão para iniciar!
+
+# Divirta-se!
